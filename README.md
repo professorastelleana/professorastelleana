@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💙  
 
-Meu nome É Ana Paula Stelle de Goes
+Meu nome é Ana Paula Stelle de Goes
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,4 +10,7 @@ Meu nome É Ana Paula Stelle de Goes
 
 stelle.ana@escola.pr.gov.br
 
-![](https://media.tenor.com/WF1XMVRhtj0AAAAM/garfield-wave.gif)
+![](https://media.tenor.com/amZ5wxLGUEoAAAAm/hugging-heart-snoopy.webp)
+
+
+
